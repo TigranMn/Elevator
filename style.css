@@ -23,7 +23,7 @@ body {
 .liftContainer {
    margin: 0 auto;
    background-color: black;
-   width: 50%;
+   width: 30%;
    height: 100vh;
    overflow: hidden;
    position: relative;
